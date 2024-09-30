@@ -1,0 +1,75 @@
+# macOS System files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Build results for .NET
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# User-specific files for .NET
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto generated files for .NET
+*.generated.cs
+*.gen.cs
+
+# NuGet packages for .NET
+*.nupkg
+packages/
+
+# Visual Studio and VS Code files
+.vscode/
+.vs/
+*.csproj.user
+
+# Mono auto generated files
+mono_crash.*
+
+# PyCharm specific files
+.idea/
+*.iml
+*.iws
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtualenv for Python
+venv/
+ENV/
+.env/
+.venv/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Backup files
+*.bak
+*.old
